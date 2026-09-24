@@ -1,0 +1,18 @@
+{
+  "name": "automatica-marketplace",
+  "owner": {
+    "name": "Lucas Nieto Moyano",
+    "email": "lnietomoyano@gmail.com"
+  },
+  "metadata": {
+    "description": "Marketplace con skills para Fundamentos de Automatica (3.º GIO, ETSII-UPM).",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ejercicio-automatica",
+      "source": "./ejercicio-automatica",
+      "description": "Resuelve de punta a punta ejercicios GRAFCET/GEMMA: 3 bloques del profesor, informe y simulacion interactiva. La primera vez monta el entorno (Python, venv, librerias) solo."
+    }
+  ]
+}

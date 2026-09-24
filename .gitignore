@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.obsidian/
+output_*/
+venv_auto/
+.DS_Store

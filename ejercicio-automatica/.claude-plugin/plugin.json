@@ -1,0 +1,10 @@
+{
+  "name": "ejercicio-automatica",
+  "description": "Resuelve de punta a punta un ejercicio de Fundamentos de Automatica (GRAFCET IEC 60848 + GEMMA): especificacion + tabla E/S, GRAFCET de conduccion/produccion/seguridad, simulacion interactiva testeable e informe. La primera vez, Claude comprueba e instala el entorno (Python, carpeta de trabajo, Obsidian opcional, librerias) por el usuario.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lucas Nieto Moyano",
+    "email": "lnietomoyano@gmail.com"
+  },
+  "keywords": ["automatica", "grafcet", "gemma", "upm", "control", "plc", "simulacion"]
+}
